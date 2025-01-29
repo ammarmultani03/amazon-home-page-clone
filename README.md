@@ -51,6 +51,11 @@ Contributing
 
 Feel free to fork the repository and submit pull requests for improvements.
 
+screenshot webpage:
+![Screenshot 2025-01-29 205045](https://github.com/user-attachments/assets/bb69c0ed-bb86-4696-9e09-73cfea7e8fde)
+
+
+
 License
 
 This project is for educational purposes and does not have a specific license.
