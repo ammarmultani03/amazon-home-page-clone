@@ -31,6 +31,8 @@ cd amazon-homepage-clone
 
 Open index.html in your browser.
 
+Project Live Link : https://ammarmultani03.github.io/amazon-home-page-clone/
+
 Usage
 
 Simply open index.html in any modern browser to view the cloned homepage.
