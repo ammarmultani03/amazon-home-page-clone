@@ -49,6 +49,9 @@ cd amazon-home-clone
 
 This site is built using **media queries** to adapt to different screen sizes including mobile, tablet, and desktop.
 
+## Live Project Link:
+https://ammarmultani03.github.io/amazon-home-page-clone/
+
 ## 🎯 Purpose
 
 This project was created to:
